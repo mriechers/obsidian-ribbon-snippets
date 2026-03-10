@@ -2,3 +2,6 @@ node_modules/
 main.js
 *.js.map
 .DS_Store
+
+# Non-Claude agent worktrees (created per CLAUDE.md isolation rules)
+.worktrees/
